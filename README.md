@@ -49,5 +49,5 @@ Os dados utilizados no projeto foram retirados da prefeitura de curitiba https:/
 
  🌟 Destaques
 
-- Visualizações Interativas**: Gráficos claros e informativos para facilitar a interpretação dos dados.
-- Insights Relevantes**: Descobertas importantes sobre o comportamento da dengue em Curitiba.
+- **Visualizações Interativas**: Gráficos claros e informativos para facilitar a interpretação dos dados.
+- **Insights Relevantes**: Descobertas importantes sobre o comportamento da dengue em Curitiba.
